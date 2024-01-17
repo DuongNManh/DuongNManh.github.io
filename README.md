@@ -30,7 +30,7 @@
         <div>
             <h3>Image Gallery</h3>
             <ul>
-                <li><img src="image/thumb1.jpg" alt="thumb1" width="720" height="560"></li>
+                <li><img src="[image/thumb1.jpg](https://cdn.pixabay.com/photo/2024/01/07/16/27/reed-8493547_1280.jpg)" alt="thumb1" width="720" height="560"></li>
                 <li><img src="image/thumb2.png" alt="thumb2" width="720" height="560"></li>
                 <li><img src="image/thumb3.jpg" alt="thumb3" width="720" height="560"></li>
             </ul>

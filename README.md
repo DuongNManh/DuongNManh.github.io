@@ -23,7 +23,7 @@
             <ul>
                 <li>Youtube: <a href="https://youtube.com">Youtube.com</a></li>
                 <li>OkamimiOST: <a href="https://okamimiost.com/">Okamimiost.com</a></li>
-                <li>Nyaa.si: <a href="https://nyaa.si/"></a></li>
+                <li>Nyaa.si: <a href="https://nyaa.si/">Nyaa.si</a></li>
                 <li>TSXX: <a href="https://tsxx1.online/">TSXX</a></li>
             </ul>
         </div>

@@ -1,6 +1,9 @@
 # DuongNManh.github.io
 For Educational Only!
 
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,3 +51,5 @@ For Educational Only!
     </main>
     <footer>CopyRight &copy; <a href="https://github.com/DuongNManh">Dưỡng Thê</a></footer>
 </body>
+
+</html>

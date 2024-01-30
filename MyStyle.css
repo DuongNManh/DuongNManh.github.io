@@ -1,4 +1,5 @@
 h1 {
+    font-family: 'Times New Roman', Times, sans-serif;
     text-align: center;
     color: rgb(36, 167, 187);
 }
@@ -25,13 +26,14 @@ img {
     box-shadow: 5px 5px 5px #151515;
     margin-left: auto;
     margin-right: auto;
+    background-position: 30%;
 }
 
 iframe {
     border: 1px solid #489abf;
     border-radius: 5px;
     box-shadow: 5px 5px 5px #070707;
-    align-self: start;
+    align-self: center;
     margin-left: auto;
     margin-right: auto;
 }
@@ -53,7 +55,7 @@ a {
 }
 
 body {
-    background-color: #f2f2f2;
+    background-color: #8ae3c4c7;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.2em;
     line-height: 1.5em;
@@ -72,11 +74,13 @@ p {
 }
 
 div {
+    display: contents;
+    flex-direction: row;
     margin: 20px 0;
 }
 
 footer {
-    background-color: #7ea59a;
+    background-color: #a5927e;
     color: #ffffff;
     font-size: 0.8em;
     padding: 3px 5px;

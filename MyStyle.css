@@ -1,3 +1,11 @@
+header {
+    background-color: #a5927e;
+    color: #ffffff;
+    font-size: 1.5em;
+    padding: 3px 5px;
+    text-align: center;
+}
+
 h1 {
     font-family: 'Times New Roman', Times, sans-serif;
     text-align: center;
@@ -21,9 +29,20 @@ ul {
 }
 
 img {
+    overflow: auto;
     border: 1px solid #100e0e;
     border-radius: 5px;
+    display: inline-block;
     box-shadow: 5px 5px 5px #151515;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: 30%;
+}
+img:hover {
+    border: 1px solid #f22626;
+    border-radius: 5px;
+    display: table-cell;
+    box-shadow: 5px 5px 5px #bb0c0c;
     margin-left: auto;
     margin-right: auto;
     background-position: 30%;
@@ -45,7 +64,6 @@ iframe:hover {
     align-self: start;
     margin-left: auto;
     margin-right: auto;
-    rotate: 1deg;
 }
 
 a {
@@ -70,6 +88,7 @@ main {
 }
 
 p {
+    line-height: 30px;
     text-align: justify;
 }
 

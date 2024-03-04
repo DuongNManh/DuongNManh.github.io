@@ -1,6 +1,6 @@
 /*Font Awesome Free Icon*/
 
-@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
 /*Google fonts*/
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap');
@@ -243,6 +243,7 @@ select {
 
 .aside .logo {
     padding: 30px 0;
+    
 }
 
 .aside .logo a {

@@ -229,6 +229,8 @@ select {
 .aside {
     width: 270px;
     background-color: #fdf9ff;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg);
+    background-size: cover;
     position: fixed;
     height: 100%;
     top: 0;
@@ -1013,7 +1015,7 @@ select {
 
 .style-switcher {
     background-color: #ffffff;
-    position: fixed;
+    position: absolute;
     top: 20px;
     right: 0;
     z-index: 10;
@@ -1084,13 +1086,13 @@ select {
 /* Dark Body */
 
 body.dark .section {
-    background-color: #151515;
+    background-color: #2c3944;
 }
 
 body.dark .Contact .contact-form .form-item .form-control,
 body.dark .about .about-content .timeline,
 body.dark .aside {
-    background-color: #222222;
+    background-color: #2c3944;
 }
 
 body.dark .Contact .contact-info-item h4,
@@ -1126,6 +1128,23 @@ body.dark .about .about-content .personal-info .info-item p,
 body.dark .aside .nav li a {
     border-color: #393939;
 }
+
+body.dark .aside {
+    background-image: url(https://st2.depositphotos.com/33058382/43417/i/450/depositphotos_434173438-stock-photo-digital-dynamic-wave-particles-abstract.jpg) ;
+    background-size: cover;
+    border: #222222;
+}
+
+body.dark .style-switcher {
+    background-color: #596f81;
+    border-color: #bbbbbb;
+}
+
+body.dark .style-switcher h5 {
+    color: #ffffff;
+    border-bottom: 1px solid #e8dfec;
+}
+
 
 body.dark .shadow-dark {
     -webkit-box-shadow: none;
